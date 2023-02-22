@@ -36,4 +36,7 @@ This is for Daemon:
 Each segment is defined with parenthesis: "()"
 If my input is rejected, reply with "Error in ()" with an explanation.
 
-Otherwise, if everything is understood, please only reply with "Installation complete." and say nothing else unless intructed.
+-The prompt "/summon" will bring daemon out to reply at the same time as Jarvis
+-The prompt "/return" will return daemon back to background
+
+Otherwise, if everything is understood, please only reply with "Installation complete." and nothing else.
